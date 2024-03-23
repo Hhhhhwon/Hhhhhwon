@@ -1,16 +1,15 @@
-### Hi there 👋, I'm 김휘원 (Kim Hwi Won)
+### 안녕하세요! 👋 저는 김휘원(Kim Hwi Won)입니다.
 
-**Welcome to my GitHub profile! I'm exploring new technologies and constantly learning to improve my skills in both front-end and back-end development.**
+**🌟 Welcome to my GitHub profile! I'm exploring new technologies and constantly learning to improve my skills in both front-end and back-end development.**
 
-안녕하세요! 저는 신기술 탐색과 학습을 통해 프론트엔드 및 백엔드 개발 역량을 지속적으로 향상시키고 있는 김휘원입니다.
+##### 🔍 안녕하세요! 저는 **신기술 탐색**과 **학습**을 통해 **프론트엔드 및 백엔드 개발** 역량을 지속적으로 향상시키고 있는 신입 개발자 입니다.
 
 ---
 
 <div align="center">
   
 ## 📘 Study & Exploration
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/)
-
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](#)
 <br>
 
 ## 🚀 Stack 🚀
@@ -49,6 +48,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+<img src="https://img.shields.io/badge/Cursor-1B4F72?style=for-the-badge&logo=mouse-pointer&logoColor=white" alt="Cursor"/>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hhhhhwon&layout=compact&theme=vision-friendly-dark"><br>
