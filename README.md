@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
-![Cursor](https://img.shields.io/badge/Cursor-1B4F72.svg?style=for-the-badge&logo=cursor&logoColor=white)
+<img src="https://img.shields.io/badge/Cursor-1B4F72?style=for-the-badge&logo=mouse-pointer&logoColor=white" alt="Cursor"/>
 </div>
 
 <div align="center">
