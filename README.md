@@ -25,33 +25,33 @@
 
 <div>
 <h2>Frontend</h2>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius: 8px;>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius: 8px;>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" style="border-radius: 8px;>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" >
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
 
 <div>
 <h2>Server/Development</h2>
- <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black"style="border-radius: 8px;/>
+ <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black"/>
  <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
- <img src="https://img.shields.io/badge/AWS RDS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" style="border-radius: 8px; />
- <img src="https://img.shields.io/badge/AWS S3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=white"style="border-radius: 8px; />
+ <img src="https://img.shields.io/badge/AWS RDS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+ <img src="https://img.shields.io/badge/AWS S3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=white" />
 </div>
 </div>
 
 <div>
 <h2>DB</h2>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"style="border-radius: 8px; />
- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"style="border-radius: 8px; />
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </div>
 
 <div>
 <h2>Tools</h2>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-3B00B9?style=for-the-badge&logo=intellijidea&logoColor=white"style="border-radius: 8px; />
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"style="border-radius: 8px; />
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"style="border-radius: 8px; />
+<img src="https://img.shields.io/badge/IntelliJ IDEA-3B00B9?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-1B4F72?style=for-the-badge&logo=mouse-pointer&logoColor=white"style="border-radius: 8px; alt="Cursor"/>
+<img src="https://img.shields.io/badge/Cursor-1B4F72?style=for-the-badge&logo=mouse-pointer&logoColor=white" alt="Cursor"/>
 </div>
 
 <div align="center">
