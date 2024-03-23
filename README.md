@@ -5,7 +5,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 <br>
-<div align="center">
+<div style="text-align: center;">
 <h1>🚀 Stack 🚀</h1>
 </div>
 <div style="font-size:16px; color: #333;">
