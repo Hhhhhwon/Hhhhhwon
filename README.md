@@ -8,7 +8,7 @@
 <div align="center">
 <h1>🚀 Stack 🚀</h1>
 </div>
-<div style="font-size:16px; color: #333;">
+<div style="font-size:16px; color: #333; align=center">
 <h2>Backend</h2>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" style="border-radius: 8px;">
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" style="border-radius: 8px;">
