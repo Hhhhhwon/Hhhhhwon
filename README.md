@@ -9,7 +9,7 @@
 <div align="center">
   
 ## 📘 Study & Exploration
-<a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <br>
 
 ## 🚀 Stack 🚀
