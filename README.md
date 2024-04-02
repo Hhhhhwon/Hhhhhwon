@@ -26,10 +26,10 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"><br>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-<img src="https://img.shields.io/badge/Mybatis-4B5562?style=for-the-badge&logo=Mybatis&logoColor=white">
+<img src="https://img.shields.io/badge/JSP-005F0F?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Mybatis-4B5562?style=for-the-badge&logo=Mybatis&logoColor=white"><br>
 <img src="https://img.shields.io/badge/JPA-4B5562?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/JSP-005F0F?style=for-the-badge&logo=Java&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white"><br>
 
