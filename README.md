@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/ExtJS-6DB33F?style=for-the-badge&logo=Sencha&logoColor=white">
+<img src="https://img.shields.io/badge/Sencha-86BC40?style=for-the-badge&logo=Sencha&logoColor=white"/>
 <br>
 
 ## 🚀 Stack 🚀
