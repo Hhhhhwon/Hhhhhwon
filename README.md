@@ -9,30 +9,34 @@
 <div align="center">
   
 ## 📘 Study & Exploration
-<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/ExtJS-6DB33F?style=for-the-badge&logo=Sencha&logoColor=white">
 <br>
 
 ## 🚀 Stack 🚀
-
+<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  
 ### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/Mybatis-4B5562?style=for-the-badge&logo=Mybatis&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-4B5562?style=for-the-badge&logo=Java&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-4B5562?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/JSP-005F0F?style=for-the-badge&logo=Java&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white"><br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 
 ### Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/ExtJS-6DB33F?style=for-the-badge&logo=Sencha&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 
 ### Server/Development
@@ -50,6 +54,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-00008B?style=for-the-badge&logo=Cursor&logoColor=white">
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hhhhhwon&layout=compact&theme=vision-friendly-dark"><br>
