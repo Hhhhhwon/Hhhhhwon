@@ -54,8 +54,9 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-3B00B9?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Cursor-00008B?style=for-the-badge&logo=Cursor&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-00008B?style=for-the-badge&logo=Cursor&logoColor=white"><br>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+<img src="https://img.shields.io/badge/SQL Developer-FF4500?style=for-the-badge&logo=Oracle&logoColor=white"/>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hhhhhwon&layout=compact&theme=vision-friendly-dark"><br>
