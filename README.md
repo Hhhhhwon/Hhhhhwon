@@ -2,7 +2,7 @@
 
 **🌟 Welcome to my GitHub profile! I'm exploring new technologies and constantly learning to improve my skills in both front-end and back-end development.**
 
-🔍 **신기술 탐색**과 **학습**을 통해 **프론트엔드 및 백엔드 개발** 역량을 지속적으로 향상시키고 있는 신입 개발자입니다.
+🔍  **학습**을 통해 **프론트엔드 및 백엔드 개발** 역량을 지속적으로 향상시키고 있는 신입 개발자입니다.
 
 ---
 
